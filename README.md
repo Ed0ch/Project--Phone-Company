@@ -3,7 +3,7 @@ Proyecto de planes de telecomunicaciones Megaline / Megaline telecommunications 
 
 Descripción General/General Description
 
-Este proyectoa analiza las tarifas de una compañia de telecomunicaciones llamada Megaline para analizar la cantidad de llamadas, los mensajes que enviaron, la cantidad de megabytes utilizamos en el 2018. Se analizan los comportamientos de los clientes y se determina cual de los planes tarifarios genera más ingresos.
+Este proyecto analiza las tarifas de una compañia de telecomunicaciones llamada Megaline para analizar la cantidad de llamadas, los mensajes que enviaron, la cantidad de megabytes utilizamos en el 2018. Se analizan los comportamientos de los clientes y se determina cual de los planes tarifarios genera más ingresos.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
