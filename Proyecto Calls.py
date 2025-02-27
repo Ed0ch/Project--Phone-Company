@@ -430,7 +430,30 @@ else:
 
 # ## Conclusión general
 
-# Para concluir a pesar de que al inicio tenía la suposición de que al tener un plan más barato atraría un mayor volumen de personal y por ende nos traería una ganancia mucho mayor, através del análisis me di cuenta de que no es así.
-# Pude observar elcomportamiento de los datos y concluir que las medias son diferentes significativamente.
-# Me gustó el hecho de comprobar que los ingresos marcan la diferencia a pesar del costo del plan que escogiese.
-# 
+# Conclusiones:
+
+#Diferencias clave entre planes:
+
+#Usuarios de Surf vs. Ultimate: Se observó que los usuarios con el plan Ultimate tienden a consumir más minutos, mensajes y datos en comparación con los usuarios del plan Surf, lo que refleja las diferencias de capacidad entre ambos planes. Este comportamiento puede influir en las decisiones de marketing y la personalización de planes según el perfil del cliente.
+#Excesos en consumo:
+
+#Un porcentaje significativo de usuarios supera sus límites de consumo en llamadas, mensajes o datos, lo que lleva a pagos adicionales por excedentes. Este análisis puede ayudar a la empresa a identificar patrones de usuarios que podrían beneficiarse de un plan superior o de la implementación de alertas de consumo en tiempo real para evitar sorpresas en la factura.
+#Estacionalidad y variabilidad del consumo:
+
+#Se identificaron picos estacionales en el consumo de datos y minutos, lo que podría correlacionarse con eventos específicos o cambios en los hábitos de los usuarios (vacaciones, promociones especiales, etc.). Esto puede servir para adaptar las ofertas y planes a períodos de alta demanda.
+#Segmentación de usuarios:
+
+#A través del análisis de cohortes, se puede segmentar a los usuarios no solo por el plan que tienen, sino también por su comportamiento de consumo. Esto facilita la creación de estrategias de fidelización y marketing más específicas y dirigidas a cada grupo de usuarios con necesidades y comportamientos similares.
+#Optimización de costos para los usuarios:
+
+#Basado en los excedentes de consumo, se podrían ofrecer opciones personalizadas para los usuarios que exceden sus límites de manera regular, como planes intermedios o descuentos por fidelidad. Además, esto podría impulsar el desarrollo de nuevos planes que se adapten mejor a las necesidades de los usuarios.
+#Oportunidad de mejorar la retención de clientes:
+
+#El análisis de los patrones de consumo también revela oportunidades para mejorar la retención, como ofrecer recomendaciones personalizadas de planes según el comportamiento histórico de los usuarios y su tasa de excedentes.
+#Desafíos en la precisión de los datos:
+
+#Durante el proceso de limpieza de datos, algunos registros inconsistentes o erróneos se identificaron, lo que subraya la importancia de tener sistemas robustos para la captura y validación de datos. La calidad de los datos es fundamental para obtener análisis precisos y relevantes.
+#Recomendaciones:
+#Mejorar la comunicación de los límites de los planes: Asegurarse de que los usuarios sean conscientes de los límites de su plan y los costos adicionales por excedentes podría ayudar a evitar confusiones y mejorar la experiencia del cliente.
+#Ajustar la oferta de planes: Basado en los hallazgos sobre los consumos promedio, la empresa podría ofrecer nuevos planes con características ajustadas a las necesidades reales de los usuarios, mejorando la competitividad en el mercado
+
